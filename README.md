@@ -8,13 +8,17 @@
 ✅ קבלת קישורים להזמנה
 
 📌 **לכניסה לבוט:** [לחץ כאן](https://t.me/PolarisPartsDeals_bot)  
-📌 **לקבוצת הפייסבוק:** [ Polaris - קהילה ומידע](https://www.facebook.com/groups/sportsman)  
+📌 **לקבוצת הפייסבוק:** [🔥 Polaris - קהילה ומידע](https://www.facebook.com/groups/yourgroup)  
 
 ### 🔽 כך זה נראה בפעולה:
-
+<p align="center">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot.jpeg" width="400">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot2.jpeg" width="400">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot3.jpeg" width="400">
+</p>
 
 ---
-## ENGLISH BELOW
+## 🇬🇧 ENGLISH BELOW
 
 # 🚀 Polaris Parts Price Comparison Bot
 
@@ -26,8 +30,12 @@ A Telegram bot for searching and comparing prices of Polaris vehicle parts! 🏍
 ✅ Get purchase links
 
 📌 **Join the bot:** [Click here](https://t.me/PolarisPartsDeals_bot)  
-📌 **Facebook Group:** [ Polaris - Community & Info](https://www.facebook.com/groups/sportsman)  
+📌 **Facebook Group:** [🔥 Polaris - Community & Info](https://www.facebook.com/groups/yourgroup)  
 
 ### 🔽 See it in action:
-
+<p align="center">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot.jpeg" width="400">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot2.jpeg" width="400">
+  <img src="https://github.com/noy1122/polaris-parts-bot/blob/main/Polaris-bot3.jpeg" width="400">
+</p>
 
