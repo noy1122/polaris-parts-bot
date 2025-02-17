@@ -18,7 +18,7 @@
 </p>
 
 ---
-## 🇬🇧 ENGLISH BELOW
+## ENGLISH BELOW
 
 # 🚀 Polaris Parts Price Comparison Bot
 
