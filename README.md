@@ -8,7 +8,7 @@
 ✅ קבלת קישורים להזמנה
 
 📌 **לכניסה לבוט:** [לחץ כאן](https://t.me/PolarisPartsDeals_bot)  
-📌 **לקבוצת הפייסבוק:** [🔥 Polaris - קהילה ומידע](https://www.facebook.com/groups/sportsman)  
+📌 **לקבוצת הפייסבוק:** [ Polaris - קהילה ומידע](https://www.facebook.com/groups/sportsman)  
 
 ### 🔽 כך זה נראה בפעולה:
 
@@ -26,7 +26,7 @@ A Telegram bot for searching and comparing prices of Polaris vehicle parts! 🏍
 ✅ Get purchase links
 
 📌 **Join the bot:** [Click here](https://t.me/PolarisPartsDeals_bot)  
-📌 **Facebook Group:** [🔥 Polaris - Community & Info](https://www.facebook.com/groups/sportsman)  
+📌 **Facebook Group:** [ Polaris - Community & Info](https://www.facebook.com/groups/sportsman)  
 
 ### 🔽 See it in action:
 
